@@ -1,0 +1,10 @@
+Package: com.bingner.appinfo
+Name: appinfo
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A tool to list information about installed apps
+Maintainer: Samuel Bingner
+Author: Samuel Bingner
+Section: System
+Tag: role::hacker
